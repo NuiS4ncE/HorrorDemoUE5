@@ -12,4 +12,6 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
-Content/Audio/mixkit-single-classic-click-1116.wav
+Content/Audio/mixkit-single-classic-click-1116.uasset
+Content/GitIgnored
+Content/GitIgnored/*

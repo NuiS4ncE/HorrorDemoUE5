@@ -1,5 +1,5 @@
 # Credits
-This file contains crediting to outside sources assets made by someone else than me.
+This file contains crediting to outside sources or assets made by someone else than me.
 
 ## Sounds
 

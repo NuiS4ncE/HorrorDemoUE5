@@ -17,3 +17,5 @@ Content/GitIgnored
 Content/GitIgnored/*
 Content/Characters/Animations/*
 Content/Characters/Animations/
+Config/DefaultMotoricaStudioConfig.ini
+Plugins/
